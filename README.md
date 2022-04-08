@@ -1,5 +1,5 @@
 
-### Hi there 👋 I' open to work 😄
+### Hi there 👋 I'm open to work 😄
 
 ⚡I have over 1 year of experience in development of Java and React.js applications.
 </br>
