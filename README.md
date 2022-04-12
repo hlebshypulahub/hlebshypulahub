@@ -22,6 +22,10 @@ to make successful e-commerce projects full of interesting business logic.
 
 🌱[React App with TypeScript.](https://github.com/hlebshypulahub/Pokedex-App) Using stateful components and Redux
 
+📈 My stats:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hlebshypulahub&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlebshypulahub&layout=compact" />
+
 <!--
 **hlebshypulahub/hlebshypulahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
