@@ -1,4 +1,5 @@
 
+<!--
 ### Hi there 👋 I'm open to work 😄
 
 ⚡I have over 1 year of experience in development of Java and React.js applications.
@@ -11,6 +12,7 @@ to make successful e-commerce projects full of interesting business logic.
 ⚡Also, I am willing to relocate
 
 </br>
+-->
 
 🔭🔭🔭 My projects:
 
